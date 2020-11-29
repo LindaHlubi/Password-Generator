@@ -16,15 +16,15 @@ function writePassword() {
 
 // Prompts for password criteria
 function generatePassword() {
-  var passwordLength = prompt("Please enter the number of characters you want for you new password.  It must be more than 8 but less than 128.");
+  var passwordLength = prompt("Please enter the number of characters you would like your new password to have between 8 and 128.");
 
-  var numbers = confirm("Do you want numbers in your password?");
+  var numbers = confirm("Would you like numbers in your password?");
 
-  var lowerCases = confirm("Do you want lowercases in your password?");
+  var lowerCases = confirm("Would you like lowercases in your password?");
 
-  var upperCases = confirm("Do you want uppercases in your password?");
+  var upperCases = confirm("Would you like uppercases in your password?");
 
-  var special = confirm("Do you want special characters in your password?");
+  var special = confirm("Would you like any special characters in your password?");
 
   // Minimum count for upperCases, lowerCases, numbers and specialCharacters
   var minimumCount = 0;
