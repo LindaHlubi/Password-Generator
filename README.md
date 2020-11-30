@@ -34,7 +34,7 @@ THEN the password is either displayed in an alert or written to the page
 
 The following image demonstrates the application functionality:
 
-![password generator demo](https://monash.bootcampcontent.com/monash-coding-bootcamp/monu-mel-fsf-pt-11-2020-u-c/-/raw/master/03-JavaScript/02-Homework/Assets/03-javascript-homework-demo.png)
+![password generator demo](https://github.com/LindaHlubi/Password-Generator/blob/main/demo.png)
 
 ## Review
 
