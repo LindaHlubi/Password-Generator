@@ -10,7 +10,7 @@ function writePassword() {
 
     passwordText.value = password;
    
-  
+
 }
 
 // variables created for generate password function 
@@ -69,8 +69,6 @@ function generatePassword() {
   }
 };
   //console.log(getRandomSymbol());
-
-
 
 
   var minValue = 0
